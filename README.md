@@ -1,6 +1,20 @@
 # scraper
 Тут находится инструкция по установке нужного софта для работы парсеров и запуску самого парсера
 ## На вашей системе должен быть установлен python 3
+
+# Скачивание парсера
+
+1) нажать на кнопку code, нажать на кнопку Download ZIP/Скачать ZIP
+
+![image](https://user-images.githubusercontent.com/43270753/213957830-ba202670-4ab3-4e99-aeeb-3832b6b7a0a9.png)
+
+2) Разархивировать в папку
+
+![image](https://user-images.githubusercontent.com/43270753/213957998-2554fa48-438b-412b-b5fd-d49713f6a1a2.png)
+
+![image](https://user-images.githubusercontent.com/43270753/213958032-7540117a-6b0d-42be-90fe-a862ff08c194.png)
+
+
 # Установка модулей python
 1) нажмите на клавиши» «Win» + «R». В окне «Выполнить» введите команду: ``` cmd ```
 
