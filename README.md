@@ -70,4 +70,9 @@
 
 4) Вводим данные человека по которому проводим парсинг
 
+![image](https://user-images.githubusercontent.com/43270753/213954812-eb3c6b79-ef40-417d-aebd-3c23585b400e.png)
+
 5) наслаждаемся кривым принтом результатов парсинга
+
+![image](https://user-images.githubusercontent.com/43270753/213954918-29373b02-5197-4ada-8e08-8e8608f5fbd0.png)
+
