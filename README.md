@@ -21,7 +21,7 @@
 
 ![image](https://user-images.githubusercontent.com/43270753/213951790-6238475e-6202-47ab-bb42-c8db9219703c.png)
  
-5) перейти на [этот сайт](sites.google.com/chromium.org/driver/downloads) и скачать webdriver нужной версии для вашей ОС
+5) перейти на [этот сайт](sites.google.com/chromium.org/driver/downloads) и скачать chromedriver нужной версии для вашей ОС
  
 ![image](https://user-images.githubusercontent.com/43270753/213951854-26b85a0d-5864-40f4-aa05-d00bfb09c7e9.png)
 
