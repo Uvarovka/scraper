@@ -10,9 +10,9 @@
 
 ![image](https://user-images.githubusercontent.com/43270753/213953198-4c1d0f33-9ed1-44bf-9427-fc9355adb513.png)
 
-2) ``` pip install -r req.txt ```
+2) в командной строке вводим ``` pip install -r req.txt ```
 
-![image](https://user-images.githubusercontent.com/43270753/213953430-96580ef4-65d2-4f0d-9ccf-9276400c68be.png)
+![image](https://user-images.githubusercontent.com/43270753/213954236-96431a34-9c48-42ab-9928-798ce1b72cb9.png)
 
 # Установка Webdriver
 1) установить google chrome
@@ -53,6 +53,8 @@
 
 ![image](https://user-images.githubusercontent.com/43270753/213952740-726e8ff0-020f-464b-9929-dce0d71b7181.png)
 
+## 13)  !!!ПЕРЕЗАГРУЖАЕМ КОМПЬЮТЕР!!!
+
 # Запуск парсера
 1) нажмите на клавиши» «Win» + «R». В окне «Выполнить» введите команду: ``` cmd ```
 
@@ -62,7 +64,7 @@
 
 ![image](https://user-images.githubusercontent.com/43270753/213953198-4c1d0f33-9ed1-44bf-9427-fc9355adb513.png)
 
-3) в командной строке вводим ``` python main.py ```
+3) в командной строке вводим ``` python main.py ```. Либо используем свой любимый вариант
 
 ![image](https://user-images.githubusercontent.com/43270753/213953932-a8b64bb6-82c5-4953-b166-a21197ddc0d1.png)
 
