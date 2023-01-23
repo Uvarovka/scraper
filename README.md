@@ -25,7 +25,7 @@
  
 ![image](https://user-images.githubusercontent.com/43270753/213951854-26b85a0d-5864-40f4-aa05-d00bfb09c7e9.png)
 
-6) нужно добавить webdriver в path для его работы, chromedriver.exe должен лежать в папке на диске c:/ в папке webdriver
+6) нужно добавить webdriver в path для его работы, chromedriver.exe должен лежать в папке на диске c:/ в папке chromedriver
 
 ![image](https://user-images.githubusercontent.com/43270753/213952427-b3518be0-630b-4cf5-bb0a-2b2fd1794f4c.png)
 
